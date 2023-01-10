@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshut105" alt="shivanshut105" /></a> </p>-->
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Backend Web Development** & **DSA**
 
 - 📫 How to reach me **shivanshut105@gmail.com**
 
